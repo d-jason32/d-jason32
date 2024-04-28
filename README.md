@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j-devaraj
+- 👋 Hi, I’m @d-jason
 - 👀 I’m interested in AI and ML.
 - 📫 How to reach me: devaj5@farmingdale.edu
 - 😄 Pronouns: he/him
