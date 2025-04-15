@@ -2,8 +2,13 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-jason32&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-jason32&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-jason32&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=d-jason32&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-jason32&layout=donut&theme=tokyonight&hide_border=true" />
+
+![Contribution Snake](https://raw.githubusercontent.com/d-jason32/d-jason32/output/github-contribution-grid-snake.svg)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=d-jason32&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -54,4 +59,3 @@
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:devaj5@farmingdale.edu)
 
 </div>
-
