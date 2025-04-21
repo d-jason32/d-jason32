@@ -6,7 +6,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-jason32&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-jason32&layout=donut&theme=tokyonight&hide_border=true" />
 
-![GitHub Snake](https://d-jason32.github.io/d-jason32/github-contribution-grid-snake.svg)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=d-jason32&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
