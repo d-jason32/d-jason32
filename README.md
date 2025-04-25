@@ -10,6 +10,7 @@ I’m a computer science student at **Farmingdale State College**, passionate ab
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-jason32&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-jason32&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-jason32&layout=donut&theme=tokyonight&hide_border=true" />
+![Leetcode Stats](https://leetcard.jacoblin.cool/d-jason32)
 
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=d-jason32&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
