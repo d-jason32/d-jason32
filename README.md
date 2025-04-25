@@ -1,5 +1,10 @@
 <div align="center">
 
+## 👤 Bio
+I’m a computer science student at **Farmingdale State College**, passionate about **artificial intelligence** and **machine learning**.
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-jason32&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true)
