@@ -60,7 +60,7 @@ I’m a computer science student at **Farmingdale State College**, passionate ab
 
 ## 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://d-jason32.github.io)  
 [![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:devaj5@farmingdale.edu)
 
 </div>
