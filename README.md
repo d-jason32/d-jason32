@@ -8,7 +8,6 @@ I’m a computer science student at **Farmingdale State College**, passionate ab
 ## 📊 GitHub Stats
 
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-jason32)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=d-jason32&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-jason32&layout=donut&theme=tokyonight&hide_border=true" />
 
 
