@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👤 Bio
-I’m a computer science student at **Farmingdale State College**, passionate about **game development**.
+I’m a computer science student at **Farmingdale State College**.
 
 ---
 
