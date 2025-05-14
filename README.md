@@ -1,6 +1,4 @@
-<div align="center">
-
-## 👤 Bio
+## 💫 About Me. 
 I’m a computer science student at **Farmingdale State College**.
 
 ---
