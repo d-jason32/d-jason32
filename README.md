@@ -1,4 +1,5 @@
-C++ Dev | Real-Time & Embedded Systems | Game Development
+Scientific Computing | Embedded Systems | Game Development
 
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-jason32)](https://github.com/d-jason32/github-readme-stats)
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d-jason32&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d-jason32&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d-jason32&theme=dracula)|
+|-----|------|------|
