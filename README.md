@@ -1,8 +1,5 @@
 **Languages:**  
-C++ · Java · JavaScript · TypeScript · Python · F# · SQL · Bash · HTML · CSS
-
-**Web:**  
-React · Vite · Tailwind CSS · Zustand · Node.js
+C++ · Java 
 
 **Interests:**  
 Embedded Systems · Scientific Computing · Game Development
